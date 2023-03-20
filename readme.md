@@ -6,7 +6,7 @@ Nós acreditamos que esses recursos serão úteis para aprimorar nossos conhecim
 
 ## Matérias
 
-- [Algorítmos e Lógica de Programação](database_modeling/index.md)
+- [Algorítmos e Lógica de Programação](programming_logic/index.md)
 
 - [Desenvolvimento Web](web_development/index.md)
 
