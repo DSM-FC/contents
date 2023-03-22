@@ -17,13 +17,13 @@
 
 ## Leituras recomendadas
 
-1. Redes de Computadores e a Internet: Uma Abordagem Top-Down - James F. Kurose e Keith W. Ross
-2. Sistemas Operacionais Modernos - Andrew S. Tanenbaum e Herbert Bos
-3. TCP/IP Illustrated - Richard Stevens
-4. Cloud Computing - Thomas Erl, Ricardo Puttini e Zaigham Mahmood
-5. Wireshark Network Analysis (Second Edition): The Official Wireshark Certified Network Analyst Study Guide - Laura Chappell e Gerald Combs
-6. Nagios: System and Network Monitoring - Wolfgang Barth
-7. Active Directory: Designing, Deploying, and Running Active Directory (5th Edition) - Brian Desmond, Joe Richards, et al.
+1. [Redes de Computadores e a Internet: Uma Abordagem Top-Down - James F. Kurose e Keith W. Ross](https://luch-library.vercel.app/books/computer_networks_and_the_internet_a_top_down_approach)
+2. [Sistemas Operacionais Modernos - Andrew S. Tanenbaum e Herbert Bos](https://luch-library.vercel.app/books/modern_operating_systems)
+3. [TCP/IP Illustrated - Richard Stevens](https://luch-library.vercel.app/books/tcpip_illustrated_vol1)
+4. [Cloud Computing - Thomas Erl, Ricardo Puttini e Zaigham Mahmood](https://luch-library.vercel.app/books/cloud_computing)
+5. [Wireshark Network Analysis (Second Edition): The Official Wireshark Certified Network Analyst Study Guide - Laura Chappell e Gerald Combs](https://luch-library.vercel.app/books/wireshark)
+6. [Nagios: System and Network Monitoring - Wolfgang Barth](https://luch-library.vercel.app/books/nagios)
+7. [Active Directory: Designing, Deploying, and Running Active Directory (5th Edition) - Brian Desmond, Joe Richards](https://luch-library.vercel.app/books/active_directory)
 
 ## Cursos
 
