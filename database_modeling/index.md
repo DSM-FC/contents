@@ -18,7 +18,6 @@ Leituras recomendadas:
 1. Fundamentos de Banco de Dados - Elmasri e Navathe
 2. SQL - Alan Beaulieu
 3. Modelagem de Dados - Carlos A. Heuser
-4. Introdução a Sistemas de Banco de Dados - C. J. Date
 
 ## Cursos
 - [Modelagem de Dados - Escola Virtual](https://www.ev.org.br/cursos/modelagem-de-dados)
