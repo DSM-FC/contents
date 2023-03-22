@@ -20,13 +20,10 @@
 1. Redes de Computadores e a Internet: Uma Abordagem Top-Down - James F. Kurose e Keith W. Ross
 2. Sistemas Operacionais Modernos - Andrew S. Tanenbaum e Herbert Bos
 3. TCP/IP Illustrated - Richard Stevens
-4. Computer Networking: A Top-Down Approach - James F. Kurose e Keith W. Ross
-5. Segurança de Redes em Ambientes Corporativos - Jeferson A. M. Cunha
-6. Virtual Private Networks (VPNs): Technologies and Protocols - Bruno P. Teixeira e Edmundo R. M. Madeira
-7. Cloud Computing - Thomas Erl, Ricardo Puttini e Zaigham Mahmood
-8. Wireshark Network Analysis (Second Edition): The Official Wireshark Certified Network Analyst Study Guide - Laura Chappell e Gerald Combs
-9. Nagios: System and Network Monitoring - Wolfgang Barth
-10. Active Directory: Designing, Deploying, and Running Active Directory (5th Edition) - Brian Desmond, Joe Richards, et al.
+4. Cloud Computing - Thomas Erl, Ricardo Puttini e Zaigham Mahmood
+5. Wireshark Network Analysis (Second Edition): The Official Wireshark Certified Network Analyst Study Guide - Laura Chappell e Gerald Combs
+6. Nagios: System and Network Monitoring - Wolfgang Barth
+7. Active Directory: Designing, Deploying, and Running Active Directory (5th Edition) - Brian Desmond, Joe Richards, et al.
 
 ## Cursos
 
