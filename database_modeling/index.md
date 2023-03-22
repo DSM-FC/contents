@@ -15,9 +15,9 @@
 
 Leituras recomendadas:
 
-1. Fundamentos de Banco de Dados - Elmasri e Navathe
-2. SQL - Alan Beaulieu
-3. Modelagem de Dados - Carlos A. Heuser
+1. [Fundamentos de Banco de Dados - Elmasri e Navathe](https://luch-library.vercel.app/books/database_system)
+2. [SQL - Alan Beaulieu](https://luch-library.vercel.app/books/learning_sql)
+3. [Modelagem de Dados - Carlos A. Heuser](https://luch-library.vercel.app/books/data_modeling)
 
 ## Cursos
 - [Modelagem de Dados - Escola Virtual](https://www.ev.org.br/cursos/modelagem-de-dados)
