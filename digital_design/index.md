@@ -16,16 +16,14 @@
 
 Leituras recomendadas:
 
-1. Introdução ao Design Digital: Cores, Tipografia, Layout, Design Responsivo, Usabilidade - Rafael Pereira
+1. [Interação Humano Computador - David Benyon](https://luch-library.vercel.app/books/human_computer_interaction)
 2. The Elements of User Experience: User-Centered Design for the Web and Beyond - Jesse James Garrett
 3. Design de interfaces: guia definitivo para o desenvolvimento de interfaces web - Jenifer Tidwell
 4. Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
-5. About Face 3: The Essentials of Interaction Design - Alan Cooper, Robert Reimann, David Cronin
+5. About Face: The Essentials of Interaction Design - Alan Cooper, Robert Reimann, David Cronin
 6. Design Thinking: Uma Metodologia Poderosa para Decretar o Fim das Velhas Ideias - Tim Brown
-7. Design Sprint: Como Resolver Problemas e Testar Novas Ideias em Apenas Cinco Dias - Jake Knapp
-8. Acessibilidade na Web: Como Conquistar Qualidade para Pessoas com Deficiência - Maurício Samy Silva
-9. Atomic Design - Brad Frost
-10. Design Systems - Alla Kholmatova
+7. [O design do dia a dia - Donald A. Norman](https://luch-library.vercel.app/books/the_everyday_design)
+8. Atomic Design - Brad Frost
 
 ## Cursos
 
