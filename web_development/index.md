@@ -15,11 +15,10 @@
 
 Leituras recomendadas:
 
-1. HTML e CSS: Design and Build Websites - Jon Duckett
-2. Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript - Marc Wandschneider
-3. Web Application Security, A Beginner's Guide - Bryan Sullivan, Vincent Liu
-4. High Performance Browser Networking - Ilya Grigorik
-5. Software Architecture Patterns - Mark Richards
+1. [HTML e CSS: Design and Build Websites - Jon Duckett](https://luch-library.vercel.app/books/html_and_css_design_and_build_websites)
+2. [Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript - Marc Wandschneider](https://luch-library.vercel.app/books/learning_nodejs)
+3. [High Performance Browser Networking - Ilya Grigorik](https://luch-library.vercel.app/books/high_performance_browser_networking)
+4. [Web Application Security, A Beginner's Guide - Bryan Sullivan, Vincent Liu](https://luch-library.vercel.app/books/web_application_security)
 
 ## Cursos
 
