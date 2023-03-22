@@ -15,12 +15,8 @@
 
 Leituras recomendadas:
 
-1. Introdução à Programação em C - Algoritmos, Estruturas de Dados e Programação Orientada a Objetos, de Luiz Fernando Martha;
-2. Algoritmos e Estruturas de Dados - Uma Abordagem Prática, de Gabriel Pereira;
-3. Introdução aos Algoritmos, de Thomas H. Cormen;
-4. Algoritmos em Linguagem C, de Sedgewick;
-5. Algoritmos e Programação - Teoria e Prática, de A. R. Bos e H. A. Lopes;
-6. Estruturas de Dados e Algoritmos em Java, de Michael T. Goodrich e Roberto Tamassia.
+1. Introdução aos Algoritmos - Thomas H. Cormen
+2. Estruturas de Dados e Algoritmos em Java - Michael T. Goodrich e Roberto Tamassia
 
 ## Cursos
 

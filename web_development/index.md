@@ -16,15 +16,10 @@
 Leituras recomendadas:
 
 1. HTML e CSS: Design and Build Websites - Jon Duckett
-2. JavaScript e jQuery: Interactive Front-End Web Development - Jon Duckett
-3. Learning React: A Hands-On Guide to Building Web Applications Using React and Redux - Kirupa Chinnathambi
-4. Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript - Marc Wandschneider
-5. Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5 - Robin Nixon
-6. Web Application Security, A Beginner's Guide - Bryan Sullivan, Vincent Liu
-7. High Performance Browser Networking - Ilya Grigorik
-8. Software Architecture Patterns - Mark Richards
-9. The Art of Unit Testing: with examples in C# - Roy Osherove
-10. Testing Computer Software - Cem Kaner, Jack Falk, Hung Quoc Nguyen
+2. Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript - Marc Wandschneider
+3. Web Application Security, A Beginner's Guide - Bryan Sullivan, Vincent Liu
+4. High Performance Browser Networking - Ilya Grigorik
+5. Software Architecture Patterns - Mark Richards
 
 ## Cursos
 

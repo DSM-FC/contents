@@ -17,16 +17,11 @@
 
 Leituras recomendadas:
 
-1. Engenharia de Software - Ian Sommerville
-2. User Stories Applied - Mike Cohn
-3. Agile Estimating and Planning - Mike Cohn
-4. Clean Code - Robert C. Martin
-5. Domain-Driven Design - Eric Evans
-6. Refactoring - Martin Fowler
-7. Continuous Delivery - Jez Humble e David Farley
-8. The Lean Startup - Eric Ries
-9. Implementing Lean Software Development - Mary Poppendieck e Tom Poppendieck
-10. Secure Coding in C and C++ - Robert C. Seacord
+1. [Engenharia de Software - Ian Sommerville](https://luch-library.vercel.app/books/software_engineering_ian_sommerville)
+2. [Clean Code - Robert C. Martin](https://luch-library.vercel.app/books/clean_code_pt_br)
+3. [Domain-Driven Design - Eric Evans](https://luch-library.vercel.app/books/domain_driven_design)
+4. [Refactoring - Martin Fowler](https://luch-library.vercel.app/books/refactoring_javascript)
+5. [Engenharia de Software, Uma abordagem profissional - 	Roger S. Pressman e Bruce R. Maxim](https://luch-library.vercel.app/books/software_engineering_a_professional_approach)
 
 ## Cursos
 
