@@ -15,8 +15,8 @@
 
 Leituras recomendadas:
 
-1. Introdução aos Algoritmos - Thomas H. Cormen
-2. Estruturas de Dados e Algoritmos em Java - Michael T. Goodrich e Roberto Tamassia
+1. [Introdução aos Algoritmos - Thomas H. Cormen](https://luch-library.vercel.app/books/introduction_to_algorithms)
+2. [Estruturas de Dados e Algoritmos em Java - Michael T. Goodrich e Roberto Tamassia](https://luch-library.vercel.app/books/data_structures_and_algorithms_in_java)
 
 ## Cursos
 
